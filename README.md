@@ -1,4 +1,4 @@
-#Query: Nudity Detection & Classification, Strong Language & Discerning Censoring
+# Query: Nudity Detection & Classification, Strong Language & Discerning Censoring
 
 **Keyword classifier classes (for specifications):**
 |Keyword/class name   |  Description    |
